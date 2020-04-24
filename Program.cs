@@ -39,7 +39,7 @@ namespace CollectionsArrays
             // Array of intergers example
 
             Console.WriteLine("Before Fix:");
-            int[] numberDays = { 1, 22, 3, 4, 5, 6, 7 };
+            int[] numberDays = { 1, 22, 33, 4, 5, 6, 7 };
             foreach ( int number in numberDays)
                 Console.WriteLine(number);
 
